@@ -49,8 +49,6 @@ chromedriver.log
 /~
 
 /.externalToolBuilders
-/.classpath
-/.project
 
 output.txt
 .idea/
