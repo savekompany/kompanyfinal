@@ -8,7 +8,7 @@
   <name>powerDistribution Maven Webapp</name>
   <url>http://maven.apache.org</url> 
   
-  <properties>
+  <properties> 
 		<spring.version>4.0.1.RELEASE</spring.version>
 		 <!-- Hibernate / JPA -->
         <!-- <hibernate.version>4.3.5.Final</hibernate.version> -->

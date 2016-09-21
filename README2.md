@@ -1,6 +1,3 @@
 # kompanyfinal
-line
 
-
-
-line add
+# kompanyfinal
