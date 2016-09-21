@@ -1,3 +1,6 @@
 # kompanyfinal
-kompany Final
 
+
+
+
+final copy
