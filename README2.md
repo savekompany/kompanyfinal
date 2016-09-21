@@ -1,1 +1,2 @@
 # kompanyfinal
+direct change
