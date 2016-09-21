@@ -1,3 +1,1 @@
 # kompanyfinal
-
-# kompanyfinal
