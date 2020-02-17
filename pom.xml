@@ -44,7 +44,7 @@
 			<version>${spring.version}</version>
 		</dependency>
 		
-		 <!-- Hibernate depen-->
+		 <!-- Hibernate dependency -->
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-entitymanager</artifactId>
