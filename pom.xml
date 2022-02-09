@@ -14,7 +14,7 @@
 		<spring.version>4.0.1.RELEASE</spring.version>
 		 <!-- Hibernate / JPA -->
         <!-- <hibernate.version>4.3.5.Final</hibernate.version> -->
-        <hibernate.version>3.6.9.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <log4j.version>1.2.17</log4j.version>
 	</properties>
 	  
